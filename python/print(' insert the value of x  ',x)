@@ -1,0 +1,6 @@
+print(' insert the value of x  ',x)
+print('insert the value of y ',y)
+z=x//y
+r=x%y
+print('qoutient is ',z)
+print('remainder is ',r)

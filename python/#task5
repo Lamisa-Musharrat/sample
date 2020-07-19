@@ -1,0 +1,7 @@
+#task5
+number_lines=5
+for l in range (number_lines):
+	num_stars=l+1
+    for i in range (num_stars):
+        print("*",end="")	
+    print("")

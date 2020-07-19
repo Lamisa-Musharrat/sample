@@ -1,0 +1,6 @@
+enum=input()
+ehour=input()
+esalh=input()
+esal=float(ehour)*float(esalh)
+print("NUMBER =",enum)
+print("SALARY = U$ %.2f"%esal)
